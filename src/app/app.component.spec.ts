@@ -3,7 +3,7 @@
 import { TestBed, async } from '@angular/core/testing';
 import { AppComponent } from './app.component';
 
-describe('App: AngularJS2RoutingPractice', () => {
+describe('App: RoutingExample', () => {
   beforeEach(() => {
     TestBed.configureTestingModule({
       declarations: [
